@@ -1,0 +1,6 @@
+[2018-09-13 16:56:15,644 - log.py] - INFO : MetadataCityIncrementp0
+[2018-09-13 16:56:15,645 - log.py] - INFO : http://192.168.100.34:8889/business/metadata/city/increment
+[2018-09-13 16:56:15,645 - log.py] - INFO : get
+[2018-09-13 16:56:15,645 - log.py] - INFO : {'Content-Type': 'application/json', 'Route_Api_Auth_Heard': "{'apiKey':'4a7f6772c52711e78e68005056aa19c3'}", 'Hyaline-Auth-AccessHeader': "{'sysCode':'che001','bizCode':'001','sign':'03559e3e74efc9f60b6abd7d55c9df60','timeStamp':'12312'}"}
+[2018-09-13 16:56:15,645 - log.py] - INFO : {'lastQueryTime': '1310665474000'}
+[2018-09-13 16:56:15,645 - log.py] - INFO : 接口测试通过
