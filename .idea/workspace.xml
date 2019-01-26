@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/requestnew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/requestnew.iml" afterDir="false" />
+    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="修改settings配置文件">
+      <change afterPath="$PROJECT_DIR$/111" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requestnew/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestnew/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/case.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/case.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/request/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="1652" column="14" lean-forward="true" selection-start-line="1652" selection-start-column="14" selection-end-line="1652" selection-end-column="14" />
+            <state relative-caret-position="354">
+              <caret line="1073" column="44" selection-start-line="1073" selection-start-column="35" selection-end-line="1073" selection-end-column="44" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -44,10 +41,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/111">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="129" selection-start-line="23" selection-start-column="129" selection-end-line="23" selection-end-column="129" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/mongodb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-580">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#20#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/request/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1488">
-              <caret line="185" selection-start-line="185" selection-end-line="187" selection-end-column="63" />
+            <state relative-caret-position="230">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -64,7 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>project_listnames</find>
       <find>error</find>
       <find>test-heading</find>
       <find>collapsible-header</find>
@@ -94,18 +111,23 @@
       <find>myAlert</find>
       <find>btn1</find>
       <find>addproject</find>
+      <find>step_add_data</find>
     </findStrings>
     <replaceStrings>
       <replace>email</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alice" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task/first_task/testcase/UserLoginInfoAdd.py" />
         <option value="$PROJECT_DIR$/public/suit.py" />
         <option value="$PROJECT_DIR$/public/log.py" />
         <option value="$PROJECT_DIR$/requestnew/__init__.py" />
@@ -156,6 +178,7 @@
         <option value="$PROJECT_DIR$/version" />
         <option value="$PROJECT_DIR$/requestnew/settings.py" />
         <option value="$PROJECT_DIR$/templates/main/case.html" />
+        <option value="$PROJECT_DIR$/111" />
       </list>
     </option>
   </component>
@@ -178,38 +201,6 @@
             <path>
               <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
               <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="request" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="request" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="requestnew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,8 +390,16 @@
       <option name="presentableId" value="Default" />
       <updated>1521446802794</updated>
       <workItem from="1548468828716" duration="767000" />
-      <workItem from="1548475901222" duration="6426000" />
+      <workItem from="1548475901222" duration="7765000" />
     </task>
+    <task id="LOCAL-00001" summary="修改settings配置文件">
+      <created>1548489898190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548489898190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -436,17 +435,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7193000" />
+    <option name="totallyTimeSpent" value="8532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21841705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21841705" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.92291665" visible="true" weight="0.45193928" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.29071537" visible="true" weight="0.064080946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,7 +454,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3288364" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.077083334" side_tool="true" weight="0.34318903" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.7092846" side_tool="true" visible="true" weight="0.064080946" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32946146" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -491,15 +491,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改settings配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改settings配置文件" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/main/step.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="783" column="332" selection-start-line="783" selection-start-column="332" selection-end-line="783" selection-end-column="332" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task/first_task/report/report18-09-0716-11-48.html" />
     <entry file="file://$PROJECT_DIR$/task/second_task/report/report18-09-0716-13-00.html" />
     <entry file="file://$PROJECT_DIR$/task/first_task/report/report18-09-0716-15-17.html" />
@@ -632,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/mongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="100" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-405" />
@@ -739,20 +729,37 @@
     <entry file="file://$PROJECT_DIR$/request/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/request/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#20#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/request/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="1652" column="14" lean-forward="true" selection-start-line="1652" selection-start-column="14" selection-end-line="1652" selection-end-column="14" />
+        <state relative-caret-position="354">
+          <caret line="1073" column="44" selection-start-line="1073" selection-start-column="35" selection-end-line="1073" selection-end-column="44" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/request/models.py">
+    <entry file="file://$PROJECT_DIR$/111">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="185" selection-start-line="185" selection-end-line="187" selection-end-column="63" />
+        <state relative-caret-position="391">
+          <caret line="23" column="129" selection-start-line="23" selection-start-column="129" selection-end-line="23" selection-end-column="129" />
         </state>
       </provider>
     </entry>
